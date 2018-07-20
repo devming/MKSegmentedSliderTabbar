@@ -1,0 +1,6 @@
+framework module MKSegmentedSliderTabbar {
+  umbrella header "MKSegmentedSliderTabbar-umbrella.h"
+
+  export *
+  module * { export * }
+}

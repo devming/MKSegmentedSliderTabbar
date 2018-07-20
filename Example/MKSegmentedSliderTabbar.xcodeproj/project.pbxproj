@@ -29,7 +29,7 @@
 
 /* Begin PBXFileReference section */
 		107EAC34CAE9AA67B7DCB1DF /* Pods-MKSegmentedSliderTabbar_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MKSegmentedSliderTabbar_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MKSegmentedSliderTabbar_Tests/Pods-MKSegmentedSliderTabbar_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		1CF16827CF0C54F886711B44 /* MKSegmentedSliderTabbar.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = MKSegmentedSliderTabbar.podspec; path = ../MKSegmentedSliderTabbar.podspec; sourceTree = "<group>"; };
+		1CF16827CF0C54F886711B44 /* MKSegmentedSliderTabbar.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MKSegmentedSliderTabbar.podspec; path = ../MKSegmentedSliderTabbar.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		3C9D7BB420DFAC78E439E720 /* Pods-MKSegmentedSliderTabbar_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MKSegmentedSliderTabbar_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-MKSegmentedSliderTabbar_Example/Pods-MKSegmentedSliderTabbar_Example.release.xcconfig"; sourceTree = "<group>"; };
 		58D8116E1304706AE1D70A7E /* Pods-MKSegmentedSliderTabbar_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MKSegmentedSliderTabbar_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MKSegmentedSliderTabbar_Example/Pods-MKSegmentedSliderTabbar_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* MKSegmentedSliderTabbar_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MKSegmentedSliderTabbar_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -42,9 +42,9 @@
 		607FACE51AFB9204008FA782 /* MKSegmentedSliderTabbar_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MKSegmentedSliderTabbar_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		6AB3AB37B1241008A1AA7252 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		6AB3AB37B1241008A1AA7252 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		9E1F32FBB75378D5B14ED541 /* Pods-MKSegmentedSliderTabbar_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MKSegmentedSliderTabbar_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MKSegmentedSliderTabbar_Tests/Pods-MKSegmentedSliderTabbar_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		BA4E926BAB6C92F768E96F3B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		BA4E926BAB6C92F768E96F3B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		E22584F2783223133FA83170 /* Pods_MKSegmentedSliderTabbar_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MKSegmentedSliderTabbar_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E71292F6185493311DBF884A /* Pods_MKSegmentedSliderTabbar_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MKSegmentedSliderTabbar_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
